@@ -14,6 +14,13 @@ sites:
     url: $GPU_SITE
   - name: Wiki
     url: https://wiki.gpu.ausmlab.xyz
+  - name: NAS Server 1
+    url: $NAS1
+  - name: NAS Server 2
+    url: $NAS2
+  - name: License Server
+    url: $LS_SERVER
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -25,8 +32,6 @@ status-website:
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: YorkU
-      href: https://yorku.ca
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: AUSMLab
