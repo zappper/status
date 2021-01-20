@@ -18,9 +18,6 @@ sites:
     url: $NAS1
   - name: NAS Server 2
     url: $NAS2
-  - name: License Server
-    url: $LS_SERVER
-    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
