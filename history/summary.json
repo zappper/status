@@ -58,19 +58,19 @@
     "url": "$GPU_SITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gpu-server",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2537,
-    "timeDay": 5226,
-    "timeWeek": 2537,
-    "timeMonth": 2537,
-    "timeYear": 2537,
+    "status": "up",
+    "uptime": "98.98%",
+    "uptimeDay": "96.19%",
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 2897,
+    "timeDay": 5325,
+    "timeWeek": 2897,
+    "timeMonth": 2897,
+    "timeYear": 2897,
     "dailyMinutesDown": {
-      "2021-01-24": 2
+      "2021-01-24": 55
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://wiki.gpu.ausmlab.xyz",
     "icon": "https://favicons.githubusercontent.com/wiki.gpu.ausmlab.xyz",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2617,
-    "timeDay": 5308,
-    "timeWeek": 2617,
-    "timeMonth": 2617,
-    "timeYear": 2617,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "96.21%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 2351,
+    "timeDay": 2898,
+    "timeWeek": 2351,
+    "timeMonth": 2351,
+    "timeYear": 2351,
     "dailyMinutesDown": {
-      "2021-01-24": 1
+      "2021-01-24": 55
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "$NAS1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nas-server-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 515,
-    "timeDay": 396,
-    "timeWeek": 515,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "status": "up",
+    "uptime": "98.99%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "98.99%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
+    "time": 523,
+    "timeDay": 484,
+    "timeWeek": 523,
+    "timeMonth": 523,
+    "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-01-24": 1
+      "2021-01-24": 54
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "$NAS2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nas-server-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 453,
-    "timeDay": 372,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "status": "up",
+    "uptime": "99.00%",
+    "uptimeDay": "96.27%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.00%",
+    "uptimeYear": "99.00%",
+    "time": 467,
+    "timeDay": 464,
+    "timeWeek": 467,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2021-01-24": 0
+      "2021-01-24": 54
     }
   }
 ]
