@@ -8,8 +8,8 @@ sites:
     url: https://benchmark.qdrone.ausmlab.com
   - name: Downloads Server
     url: https://downloads.ausmlab.com
-  - name: YUGeomatics
-    url: https://yugeomatics.ca
+#  - name: YUGeomatics
+#    url: https://yugeomatics.ca
   - name: GPU Server
     url: $GPU_SITE
   - name: Wiki
