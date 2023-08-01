@@ -4,19 +4,19 @@
     "url": "https://benchmark.qdrone.ausmlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/benchmark.qdrone.ausmlab.com.ico",
     "slug": "q-drone-benchmark",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 425,
-    "timeDay": 4500,
-    "timeWeek": 1120,
-    "timeMonth": 552,
-    "timeYear": 411,
+    "timeDay": 3073,
+    "timeWeek": 1038,
+    "timeMonth": 542,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2023-08-01": 0
+      "2023-08-01": 16
     }
   },
   {
