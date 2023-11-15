@@ -6,17 +6,16 @@
     "slug": "q-drone-benchmark",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 389,
-    "timeDay": 353,
-    "timeWeek": 279,
-    "timeMonth": 304,
+    "timeDay": 416,
+    "timeWeek": 315,
+    "timeMonth": 309,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-11-14": 7,
       "2023-08-11": 81,
       "2023-08-01": 16
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 215,
-    "timeDay": 178,
-    "timeWeek": 255,
-    "timeMonth": 224,
+    "timeDay": 125,
+    "timeWeek": 233,
+    "timeMonth": 223,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2023-10-11": 60
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 294,
-    "timeDay": 179,
-    "timeWeek": 299,
-    "timeMonth": 269,
+    "timeDay": 151,
+    "timeWeek": 266,
+    "timeMonth": 268,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2023-10-11": 60,
@@ -73,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 469,
-    "timeDay": 306,
-    "timeWeek": 424,
-    "timeMonth": 433,
-    "timeYear": 466,
+    "time": 468,
+    "timeDay": 313,
+    "timeWeek": 386,
+    "timeMonth": 431,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2023-10-11": 58
     }
@@ -94,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 367,
-    "timeDay": 233,
-    "timeWeek": 368,
-    "timeMonth": 384,
+    "timeDay": 327,
+    "timeWeek": 344,
+    "timeMonth": 382,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2023-10-11": 51
@@ -114,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 357,
-    "timeDay": 271,
-    "timeWeek": 603,
-    "timeMonth": 405,
+    "timeDay": 239,
+    "timeWeek": 338,
+    "timeMonth": 404,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2023-10-11": 35,
