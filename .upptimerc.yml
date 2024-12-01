@@ -4,8 +4,14 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: AUSMLab.com
+    url: https://ausmlab.com
+  - name: AUSMLab Admin
+    url: $AUSMLABADMIN
   - name: QDrone Benchmark
     url: https://benchmark.qdrone.ausmlab.com
+  - name: YUTO Semantic
+    url: https://yutosemantic.ausmlab.com
   - name: Downloads Server
     url: https://downloads.ausmlab.com
 #  - name: YUGeomatics
