@@ -22,19 +22,19 @@
     "url": "$AUSMLABADMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ausm-lab-admin",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 822,
-    "timeDay": 5108,
-    "timeWeek": 1868,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1312,
+    "timeDay": 7466,
+    "timeWeek": 3135,
+    "timeMonth": 1312,
+    "timeYear": 1312,
     "dailyMinutesDown": {
-      "2024-12-26": 8
+      "2024-12-26": 0
     }
   },
   {
