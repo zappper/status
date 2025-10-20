@@ -1,7 +1,7 @@
 url: https://ausmlab.com
-status: up
-code: 200
-responseTime: 975
-lastUpdated: 2025-10-20T07:24:46.726Z
+status: down
+code: 500
+responseTime: 17615
+lastUpdated: 2025-10-20T07:37:20.641Z
 startTime: 2024-12-01T23:44:59.829Z
 generator: Upptime <https://github.com/upptime/upptime>
