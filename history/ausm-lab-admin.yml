@@ -1,7 +1,7 @@
 url: $AUSMLABADMIN
-status: down
-code: 500
-responseTime: 65
-lastUpdated: 2025-11-18T11:59:15.112Z
+status: up
+code: 200
+responseTime: 420
+lastUpdated: 2025-11-18T14:48:57.696Z
 startTime: 2024-12-01T23:45:00.530Z
 generator: Upptime <https://github.com/upptime/upptime>
