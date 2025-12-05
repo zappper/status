@@ -58,36 +58,40 @@
     "url": "https://benchmark.qdrone.ausmlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/benchmark.qdrone.ausmlab.com.ico",
     "slug": "q-drone-benchmark",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 442,
-    "timeWeek": 342,
-    "timeMonth": 326,
+    "time": 310,
+    "timeDay": 302,
+    "timeWeek": 319,
+    "timeMonth": 320,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "YUTO Semantic",
     "url": "https://yutosemantic.ausmlab.com",
     "icon": "https://icons.duckduckgo.com/ip3/yutosemantic.ausmlab.com.ico",
     "slug": "yuto-semantic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 266,
-    "timeWeek": 305,
-    "timeMonth": 306,
-    "timeYear": 308,
-    "dailyMinutesDown": {}
+    "time": 307,
+    "timeDay": 189,
+    "timeWeek": 281,
+    "timeMonth": 300,
+    "timeYear": 307,
+    "dailyMinutesDown": {
+      "2025-12-05": 0
+    }
   },
   {
     "name": "Downloads Server",
