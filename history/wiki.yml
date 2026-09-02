@@ -1,7 +1,7 @@
 url: https://wiki.gpu.ausmlab.xyz
-status: up
-code: 200
-responseTime: 475
-lastUpdated: 2026-09-01T01:40:11.496Z
+status: down
+code: 500
+responseTime: 489
+lastUpdated: 2026-09-02T00:30:48.416Z
 startTime: 2021-01-20T15:29:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
